@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/user/{userId}": {
+      "name": "/user/{userId}",
+      "lambdaFunction": "capstoneproject96034c9d",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
