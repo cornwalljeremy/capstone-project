@@ -17,6 +17,12 @@
           "deploymentBucketName": "amplify-capstoneproject-dev-150232-deployment",
           "s3Key": "amplify-builds/capstoneproject96034c9d-4c57432f574b50657541-build.zip"
         }
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "dgw1smyvv8fqq",
+          "type": "manual"
+        }
       }
     }
   }
